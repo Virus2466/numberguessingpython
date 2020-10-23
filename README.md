@@ -1,1 +1,1 @@
-# simple python no guessing gaming best project for beginnerss
+# simple python number guessing gaming best project for beginnerss
